@@ -1,0 +1,36 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url("betterbackgrondhehe.jpg");
+  background-size: cover;
+}
+
+.flex-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: whitesmoke;
+  font-weight: bold;
+  align-items: center;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  width: 150px;
+  height: 35px;
+  margin-top: 20px;
+  background-color: goldenrod;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 10px;
+  border-color: goldenrod;
+  box-shadow: 5px 5px 5px black;
+}
